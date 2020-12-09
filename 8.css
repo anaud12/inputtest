@@ -1,0 +1,23 @@
+body{background-color:#fafad2;}
+#toll{max-width:1200px; margin:0 auto;}
+#toll > .box{border:1px solid black; border-radius:25px; width:100%; background-color:white;}
+h1{text-align:center;}
+.sub{margin-left:15px;}
+.box > fieldset{margin:0 20px 10px 20px;}
+.inline > p{display: inline;margin-right:5px;}
+.block{display:block; margin-bottom:5px;}
+.block > input{display:inline;}
+#mid > h2{font-size:20px; margin-top:0;}
+#mid > div{display:block;}
+#sub p{display:inline;}
+.inline > .aa{color:#ffffff; background-color:#ff0000;border:0px; padding:2px;}
+#k{width:100%; margin:0 auto; text-align:center; margin-bottom: 30px;}
+#k >#last{color:#ffffff; background-color:#ff0000;border:0px; padding:2px;}
+
+
+
+
+
+
+
+
